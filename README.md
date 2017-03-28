@@ -25,6 +25,6 @@ Early in the process, we went through a bif process for a web form tool. We soli
 
 # Where we are going
 
-We've mainly learned that not all forms are created equal. Some are simple, but most of them are either interrealted or kick off complicated business processes. Moving them online isn't much help. Some are really also better served as applications. For example, why make a resident fill out the same assessing form every year if we already have the bulk of that information in a city database? 
+We've mainly learned that not all forms are created equal. Some are simple, but most of them are either interrelated or kick off complicated business processes. Just moving those online isn't much help. Some are really also better served as applications. For example, why make a resident fill out the same assessing form every year if we already have the bulk of that information in a city database? 
 
-Likely, we'll need a flexible workflow tool which simple forms and web applications can feed information into. 
+Likely, we'll need a flexible workflow tool which simple forms and web applications can feed information into. But the pilot has also shown us we'll always need the ability to quickly and easily create branded forms. 
