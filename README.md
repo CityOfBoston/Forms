@@ -3,13 +3,17 @@ A list of City of Boston Forms, along with some related data and project notes.
 
 We're working to eliminate all paper forms and pdfs in the City of Boston. If you want to come to City Hall to do business with us, we'll be here for you. But if you *have* to come to City Hall to do business with us, then we're not doing our job. This is where we are storing a database of files, owners, and status documents. There's no real code, but since we integrate so closely with the web team, it helps to keep it in the same place. 
 
+# How we use this repo
+
+Visit the issues sections. Each issue represents a paper, pdf, or web form. Comments and labels provide more information about that form and indicate it's status in the process. Closed issues represent forms successfully moved online. 
+
 If you have any questions, please contact joshua.gee@boston.gov.
 
 # Project History
 
-Last year we went through an WQC process for a web form tool. We solicited three bids and procured SeamlessDocs as part of a pilot program. Our goal in the pilot was to move fast and learn. We weren’t trying to fix every department’s process but to focus on the customer experience and eliminating paper forms and pdfs. We've uploaded a copy of our WQC.
+When we started, we didn't even have a list of what forms residents can fill out. We had to start with a scrape of the website for all pdf files. That, plus interviews with departments and reviews of other documentation helped us pull together a list. Even with months of auditing, we're still finding new forms every day. 
 
-Over the course of the pilot, we identified over 400 forms across the city. Some of these were paper, some were pdfs, and some were existing web forms on old technology. A large number of these forms are also being converted via larger enterprise projects. We're finding new forms every day. 
+Early in the process, we went through a bif process for a web form tool. We solicited three bids and procured a partner, SeamlessDocs, as part of a pilot program. Our goal in the pilot was to move fast and learn. We weren’t trying to fix every department’s process but to focus on the customer experience and eliminating paper forms and pdfs. We've uploaded a copy of our bid document which you should feel free to use.
 
 # Things we learned
 
@@ -19,6 +23,8 @@ Over the course of the pilot, we identified over 400 forms across the city. Some
 * we've avoided getting into workflow changes, but as we find a need for a workflow tool that will become more important; 
 * functionality around conditional fields, logic, and branching are really important;
 
-# Key learning
+# Where we are going
 
-A huge number of forms are interrelated or dependant on back end processes that aren't always uniform or consistent. Process change and good workflow software is as important or more important than form software. 
+We've mainly learned that not all forms are created equal. Some are simple, but most of them are either interrealted or kick off complicated business processes. Moving them online isn't much help. Some are really also better served as applications. For example, why make a resident fill out the same assessing form every year if we already have the bulk of that information in a city database? 
+
+Likely, we'll need a flexible workflow tool which simple forms and web applications can feed information into. 
