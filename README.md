@@ -13,10 +13,12 @@ Over the course of the pilot, we identified over 400 forms across the city. Some
 
 # Things we learned
 
-This recommendation is based on learnings from the pilot:
-
 * There is huge demand to move forms online in the departments;
 * we initially thought there would be a strong demand for submissions that look exactly like current forms. That hasn't been the case an. 
 * departments almost immediately asked for tools to help them move to all-digital processes; 
 * we've avoided getting into workflow changes, but as we find a need for a workflow tool that will become more important; 
-* functionality around conditional fields, logic, and branching are really important.
+* functionality around conditional fields, logic, and branching are really important;
+
+# Key learning
+
+A huge number of forms are interrelated or dependant on back end processes that aren't always uniform or consistent. Process change and good workflow software is as important or more important than form software. 
