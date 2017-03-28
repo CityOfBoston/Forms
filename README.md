@@ -15,7 +15,7 @@ Over the course of the pilot, we identified over 400 forms across the city. Some
 
 This recommendation is based on learnings from the pilot:
 
-* There is demand for a large number of forms;
+* There is huge demand to move forms online in the departments;
 * we initially thought there would be a strong demand for submissions that look exactly like current forms. That hasn't been the case an. 
 * departments almost immediately asked for tools to help them move to all-digital processes; 
 * we've avoided getting into workflow changes, but as we find a need for a workflow tool that will become more important; 
