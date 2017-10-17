@@ -13,7 +13,7 @@ If you have any questions, please contact joshua.gee@boston.gov.
 
 When we started, we didn't even have a list of what forms residents can fill out. We had to start with a scrape of the website for all pdf files. That, plus interviews with departments and reviews of other documentation helped us pull together a list. Even with months of auditing, we're still finding new forms every day. 
 
-Early in the process, we went through a bid process for a web form tool. We solicited three bids and procured a partner, SeamlessDocs, as part of a pilot program. Our goal in the pilot was to move fast and learn. We weren’t trying to fix every department’s process but to focus on the customer experience and eliminating paper forms and pdfs. We've uploaded a copy of our bid document which you should feel free to use or modify if you're attempting a similar project.
+Early in the process, we went through a bid process for a web form tool. We solicited three bids and procured a partner, <a href="https://www.seamlessdocs.com">SeamlessDocs</a>, as part of a pilot program. Our goal in the pilot was to move fast and learn. We weren’t trying to fix every department’s process but to focus on the customer experience and eliminating paper forms and pdfs. We've uploaded a copy of our bid document which you should feel free to use or modify if you're attempting a similar project.
 
 # Things we learned
 
