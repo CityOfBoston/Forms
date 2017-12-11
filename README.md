@@ -26,6 +26,8 @@ Early in the process, we went through a bid process for a web form tool. We soli
 
 # Where we are going
 
-We've learned that not all forms are created equal. Some are simple, but most of them are either interrelated or kick off complicated business processes. Just moving those online isn't much help. Some are really also better served as applications. For example, why make a resident fill out the same assessing form every year if we already have the bulk of that information in a city database? 
+We've learned that not all forms are created equal. Some are simple, but most of them are either interrelated or kick off complicated business processes. Just moving those online isn't much help. Some are really also better served as applications. A good example is death certificates. After learning more about the process, we realized that a [form](https://github.com/CityOfBoston/Forms/issues/230) isn't a good solution since we wanted to give residents the ability to look up and order a certificate once they knew we had it (Right now, they request a record blind). So we are building [an entire application](https://github.com/CityOfBoston/registry-certs/) that allows residents to look up and order forms. 
 
-Likely, we'll need a flexible workflow tool into information from simple forms and web applications can be fed. But the pilot has also shown us we'll always need the ability to quickly and easily create branded forms. 
+As we expand, we'll need a flexible workflow tool into which information from simple forms and web applications can be fed. We've done some analysis, and are working on an RFP around that. Since that's a bigger project, we're currenctly coordinating among multiple stakeholders. 
+
+However, the pilot has also shown us we'll always need the ability to quickly and easily create branded forms. 
