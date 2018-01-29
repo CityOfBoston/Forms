@@ -5,6 +5,6 @@ We're working to provide a digital form alongside all paper forms and pdfs in th
 
 # How we use this repo
 
-Visit the [issues](https://github.com/CityOfBoston/Forms/issues) section. Each issue represents a paper, pdf, or web form. Comments and labels provide more information about that form and indicate it's status in the process. Closed issues represent forms successfully moved online. 
+Visit the [issues](https://github.com/CityOfBoston/Forms/issues) section. Each issue represents a paper, pdf, or web form. Comments and labels provide more information about individual forms. We track our progress in [this Github project](https://github.com/orgs/CityOfBoston/projects/5) Closed issues represent forms successfully moved online. You can read more about the [overall project here](https://github.com/CityOfBoston/digital/wiki/Forms-Online).
 
 If you have any questions, please contact digital@boston.gov.
