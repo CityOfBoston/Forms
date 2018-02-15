@@ -9,4 +9,4 @@ Visit the [issues](https://github.com/CityOfBoston/Forms/issues) section. Each i
 If you have any questions, please contact digital@boston.gov.
 
 # How to style forms
-Forms should be styled using the [City of Boston brand](boston.gov/brand). A [stylesheet](https://github.com/CityOfBoston/cob-themes/tree/master/seamless_docs) is set up for forms. Forms can also be embedded into Drupal.
+Forms should be styled using the [City of Boston brand](https://boston.gov/brand). A [stylesheet](https://github.com/CityOfBoston/cob-themes/tree/master/seamless_docs) is set up for forms. Forms can also be embedded into Drupal.
